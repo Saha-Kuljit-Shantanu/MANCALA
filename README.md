@@ -21,6 +21,6 @@ This is an adversarial search, where the player and algorithm will subsequently 
 
 **AI vs AI**
 
--Run **mancala.cpp** file 
+- Run **mancala.cpp** file 
 
 
